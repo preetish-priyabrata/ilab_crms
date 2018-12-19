@@ -1,0 +1,43 @@
+.companySuggestTr td:hover {
+    background: #FCF;  
+    color: #000;   
+    font-weight: bold;
+    cursor: pointer;
+} 
+.modal-contact{
+    color: #444444;
+    font-style: italic;
+}
+.modal-contact:hover{
+    color: blue;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+}
+img#modelBoxClose:hover{
+    border:1px solid #a1a1a1;                
+    border-radius:10px;
+    box-shadow: 10px 10px 5px #888888;
+    cursor: pointer;                
+}
+#modalBox-titleBar {
+    background: url(../module-header-left-bg.gif) no-repeat scroll top left;
+    display: block;
+    float: left;
+    height: 40px;
+    margin-right: 0px;
+    padding-right: 0px;
+    text-decoration: none;
+    color: #444444;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    width: 100%;
+    margin-bottom: 0;
+    letter-spacing: normal;
+}
+#modalBox-titleBar span {                
+    display: block;
+    line-height: 28px;
+    padding: 7px 0 5px 18px;
+} 

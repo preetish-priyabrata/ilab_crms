@@ -1,0 +1,495 @@
+.content { COLOR: #454545; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+
+FONT-SIZE: 10px; TEXT-DECORATION: none ; font-style: normal; text-align: justify} 
+
+.heading {
+	COLOR: #990000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none;
+	padding: 5px;
+} A.Nav { COLOR: #FFFFFF; 
+
+FONT-FAMILY: Verdana; FONT-SIZE: 10px; FONT-WEIGHT: bold; TEXT-DECORATION: none 
+
+} A.Nav:link { COLOR: #ffffff; FONT-FAMILY: Verdana; FONT-SIZE: 10px; FONT-WEIGHT: 
+
+bold; TEXT-DECORATION: none } A.Nav:visited { COLOR: #ffffff; FONT-FAMILY: Verdana; 
+
+FONT-SIZE: 10px; FONT-WEIGHT: bold; TEXT-DECORATION: none } A.Nav:hover { COLOR: 
+
+#ffffff; FONT-FAMILY: Verdana; FONT-SIZE: 10px; FONT-WEIGHT: bold; TEXT-DECORATION: 
+
+none } A.content:visited { COLOR: #eeeeee; FONT-FAMILY: Verdana, Arial, Helvetica, 
+
+sans-serif; FONT-SIZE: 10px; FONT-WEIGHT: bold; TEXT-DECORATION: none } A.content:hover 
+
+{ FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; FONT-WEIGHT: 
+
+bold; TEXT-DECORATION: underline } A.content:link { COLOR: #eeeeee; FONT-FAMILY: 
+
+Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; FONT-WEIGHT: bold; TEXT-DECORATION: 
+
+none } A.content:active { COLOR: #eeeeee; FONT-FAMILY: Verdana, Arial, Helvetica, 
+
+sans-serif; FONT-SIZE: 10px; FONT-WEIGHT: bold; TEXT-DECORATION: none } .menuTxt 
+
+{ COLOR: #f4b7b7; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10px; 
+
+TEXT-DECORATION: none } .menuTxt A:link { COLOR: #ffffff; FONT-FAMILY: Arial, 
+
+Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none } .menuTxt A:visited 
+
+{ COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10px; 
+
+TEXT-DECORATION: none } .menuTxt A:hover { COLOR: #f4b7b7; FONT-FAMILY: Arial, 
+
+Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none } .submenuTxt { 
+
+COLOR: #cf0f0f; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 
+
+10px; FONT-WEIGHT: bold; TEXT-DECORATION: none } .submenuTxt A:link { COLOR: #cf0f0f; 
+
+FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; FONT-WEIGHT: 
+
+bold; TEXT-DECORATION: none } .submenuTxt A:visited { COLOR: #cf0f0f; FONT-FAMILY: 
+
+Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; FONT-WEIGHT: bold; TEXT-DECORATION: 
+
+none } .submenuTxt A:hover { COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, 
+
+sans-serif; FONT-SIZE: 10px; FONT-WEIGHT: bold; TEXT-DECORATION: none } .submenulightTxt 
+
+{ COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 
+
+10px; FONT-WEIGHT: bold; TEXT-DECORATION: none } .submenulightTxt A:link { COLOR: 
+
+#666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; 
+
+FONT-WEIGHT: bold; TEXT-DECORATION: none } .submenulightTxt A:visited { COLOR: 
+
+#666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; 
+
+FONT-WEIGHT: bold; TEXT-DECORATION: none } .submenulightTxt A:hover { COLOR: #666666; 
+
+FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; FONT-WEIGHT: 
+
+bold; TEXT-DECORATION: none } .menubg { BACKGROUND: #330099 }.para {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	text-align: left;
+	vertical-align: top;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: dashed;
+	border-left-style: none;
+	border-top-color: #999;
+	border-right-color: #999;
+	border-bottom-color: #999;
+	border-left-color: #999;
+	margin-right: 5px;
+	margin-left: 5px;
+	background-color: #F3F3F3;
+	padding: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.home {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #FFFFFF; text-decoration: none}
+
+.font-1 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; text-decoration: none}
+
+.linefont {
+
+	font-family: "Trebuchet MS";
+
+	font-size: 13px;
+
+	color: #000000;
+
+	text-decoration: none;
+
+	text-align: justify;
+
+	line-height: 0.5cm;
+
+}
+
+.justify {  text-align: justify; vertical-align: top}
+
+.smalllink {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; text-decoration: none; text-align: justify}
+
+.homelinks {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #FFFFFF; text-decoration: none}
+
+.struc {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; color: #FFFFFF; text-decoration: none}
+
+.seminar {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: normal; color: #FFFFFF; text-decoration: none}
+
+.topline {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; color: #000066; text-decoration: none}
+
+.topline {  }
+
+.shaan {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #990000; text-decoration: none}
+
+.top {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; color: #000066; text-decoration: none}
+
+.copyright {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #FF0000; text-decoration: none}
+
+.link2 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF; text-decoration: none}
+
+.title-top {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 24px; color: #000000; text-decoration: none}
+
+.boldlink {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF; text-decoration: none}
+
+.general {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF; text-decoration: none}
+
+.new-pro {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; font-style: normal; color: #000000; text-decoration: none}
+
+.caplink {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF; text-decoration: none}
+
+.smalllink1 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #990000; text-decoration: none}
+
+.smalllinkwhite { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #FFFFFF; text-decoration: none }
+
+.linefont1 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000000; text-decoration: none; text-align: left}
+
+.smalllink2 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000; text-decoration: none }
+
+.smalllinkCopy { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; text-decoration: none; text-align: justify }
+
+.linefontCopy { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000; text-decoration: blink; text-align: justify }
+
+.linefontCopy { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000; text-decoration: none; text-align: justify ; line-height: 0.50cm}
+
+.smallest { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000; text-decoration: none; text-align: justify; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000; text-decoration: blink; text-align: justify }
+
+.smalllink1Copy { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #000000; text-decoration: none }
+
+.shaanCopy { font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; text-decoration: none }
+
+.kiitee {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 14px;
+
+	color: #000000;
+
+	text-decoration: none;
+
+	text-align: justify;
+
+	line-height: 0.7cm;
+
+}
+
+.times { font-family: "Times New Roman", Times, serif; font-size: 15px; color: #FFFFFF; text-decoration: none; text-align: justify; line-height: 0.5cm; font-style: normal}
+
+.white { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF; text-decoration: none; text-align: justify; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000; text-decoration: none; text-align: justify ; line-height: 0.5cm}
+
+.line { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF; text-decoration: none; text-align: justify; line-height: 0.5cm }
+
+.linefontCopy { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000; text-decoration: none; text-align: justify; line-height: 0.5cm }
+
+.manaage { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; text-decoration: none; text-align: justify; line-height: 0.5cm }
+
+.lineok { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; color: #000000; text-decoration: none; text-align: justify; line-height: 0.5cm }
+
+.lineook { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; color: #FFFFFF; text-decoration: none; text-align: justify; line-height: 0.5cm }
+
+.space { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; text-decoration: none; text-align: justify; line-height: 0.8cm}
+
+.newweb {
+
+	text-align: justify;
+
+}
+
+.new {
+
+	font-family: "Courier New", Courier, mono;
+
+	font-size: 12px;
+
+	color: #000000;
+
+	text-decoration: none;
+
+	text-align: justify;
+
+}
+
+.new1 {
+
+	font-family: "Courier New", Courier, mono;
+
+	font-size: 12px;
+
+	color: #FFFFFF;
+
+	text-decoration: none;
+
+	text-align: justify;
+
+}
+
+green {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 12px;
+
+	color: #009900;
+
+	text-decoration: none;
+
+	text-align: justify;
+
+}
+
+.greeny {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 12px;
+
+	color: #009900;
+
+	text-decoration: none;
+
+	text-align: justify;
+
+}
+.footer {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+}
+/*----- menu --------*/
+.nav * {margin:0; padding:0; outline:0}
+.nav {height:32px; color:#fff; text-shadow:1px 1px 3px #000099; z-index:1000; margin:0; padding:0; outline:0; /*text-align:center;*/}
+.menu {display:inline-block;text-align:left;}
+.menu a {float:left; color:#eee; text-decoration:none;  height:24px; padding: 8px 16px 0}
+.menu span {float:left; color:#eee; text-decoration:none;  height:24px; padding: 8px 16px 0}
+.menu a:hover {color:#fff; background:#4081C1}
+.menu {list-style:none; font:12px Arial,Verdana; margin:0}
+.menu li {position:relative; float:left;  z-index:1000;}
+.menu li.clr {clear:both;float:none;}
+.menu ul {display:none; position:absolute; font:normal 12px Arial,Verdana; top:32px; left:0; background:#669BCE; display:none; list-style:none}
+.menu ul li {float:none; border-top:1px solid #E2ECF6; width:200px}
+.menu ul li a, li.menuhover li a, li.menuhover li.menuhover li a {float:none; display:block; background:none; height:22px; padding-top:5px}
+.menu ul li a:hover, li.menuhover li a:hover, li.menuhover li.menuhover li a:hover {background:#4081C1; color:#fff}
+.menu ul li span, li.menuhover li span, li.menuhover li.menuhover li span {float:none; display:block; background:none; height:22px; padding-top:5px}
+.menu ul ul {left:200px; top:0}
+.menu ul ul li {width:220px;}
+.menu li.submenu {font-weight:bold}
+.menu li.noborder {border-top:none}
+li.menuhover a, li.menuhover li.menuhover a {color:#fff; background:#4081C1}
+li.menuhover span, li.menuhover li.menuhover span {color:#fff; background:#4081C1}
+#info {width:180px; background:#eee}
+#info li {width:160px; border-top:none; padding:8px 10px; color:#4081C1; text-shadow:1px 1px #fff; text-align:left}
+#menu-holder { background-color:#0C3E74;}
+
+.borderedtable, .borderedtable td, .borderedtable th {border: 1px solid #BBBBBB; border-style: solid none none solid;}
+.borderedtable td, .borderedtable th {border-style:none solid solid none;}
+
+.style73 {
+	font-size: 16px;
+	color: #990000;
+	font-weight: bold;
+	margin: 0px;
+}
+
+//-------------------- custome css -----------------
+
+
+/* General Styles
+----------------------------------------------------------------------------------------------------*/
+
+#wrapper {	
+	padding: 70px 0 0 0px;
+	height: 100%;
+}
+#wrapper {
+	width: 350px;
+	margin:auto;
+	position: relative;
+}
+
+#wrappertop {
+	background:url(image/wrapper_top.png) no-repeat;
+	height:22px;
+}
+
+#wrappermiddle {
+	background:url(image/wrapper_middle.png) repeat-y;
+	height:240px;
+}
+
+#wrapperbottom {
+	background:url(image/wrapper_bottom.png) no-repeat;
+	height:22px;
+}
+
+#wrapper h2 {
+	margin-left: 120px;
+	font-size:20px;
+	font-weight:bold;
+	font-family:Myriad Pro;
+	text-transform:uppercase;
+	position:absolute;
+	text-shadow: #fff 2px 2px 2px;
+	color: black;
+}
+
+#username_input {
+	margin-left:25px;
+	position:absolute;
+	width:300;
+	height:50px;
+	margin-top:40px;
+}
+
+#username_inputleft {
+	float:left;
+	background:url(image/input_left.png) no-repeat;
+	width:12px;
+	height:50px;
+}
+
+#username_inputmiddle {
+	float:left;
+	background:url(image/input_middle.png) repeat-x;
+	width:276px;
+	height:50px;
+}
+
+#username_inputright {
+	float:left;
+	background:url(image/input_right.png) no-repeat;
+	width:12px;
+	height:50px;
+}
+
+#url{
+	display:block;
+	width:248px;
+	height:45px;
+	background:transparent;
+	border:0;
+	/* color:#bdbdbd; */
+	font-family:helvetica, sans-serif;
+	font-size:14px;
+	padding-left:20px;
+}
+
+#url_user {
+	position:absolute;
+	display:block;
+	margin-top:-28px;
+	float:left;
+	padding-right:10px;
+}
+
+#password_input {
+	margin-left:25px;
+	position:absolute;
+	width:300;
+	height:50px;
+	margin-top:100px;
+}
+
+#password_inputleft {
+	float:left;
+	background:url(image/input_left.png) no-repeat;
+	width:12px;
+	height:50px;
+}
+
+#password_inputmiddle {
+	float:left;
+	background:url(image/input_middle.png) repeat-x;
+	width:276px;
+	height:50px;
+}
+
+#password_inputright {
+	float:left;
+	background:url(image/input_right.png) no-repeat;
+	width:12px;
+	height:50px;
+}
+
+#url_password {
+	display:block;
+	position:absolute;
+	margin-top:-32px;
+	float:left;
+	margin-left:4px;
+}
+
+#submit{
+	float:left;
+	position:relative;
+	padding:0;
+	margin-top:160px;
+	margin-left:25px;
+	width:300px;
+	height:40px;
+	border:0;
+}
+
+.btn_submit {
+	-moz-box-shadow:inset 0px -3px 19px 1px #97c4fe;
+	-webkit-box-shadow:inset 0px -3px 19px 1px #97c4fe;
+	box-shadow:inset 0px -3px 19px 1px #97c4fe;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #3d94f6), color-stop(1, #1e62d0) );
+	background:-moz-linear-gradient( center top, #3d94f6 5%, #1e62d0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#3d94f6', endColorstr='#1e62d0');
+	background-color:#3d94f6;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0px;
+	border:2px solid #337fed;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+	height:33px;
+	margin-top: 20px;
+	line-height: 24px;
+	width: 300px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #1570cd;
+}
+.btn_submit:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #1e62d0), color-stop(1, #3d94f6) );
+	background:-moz-linear-gradient( center top, #1e62d0 5%, #3d94f6 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#1e62d0', endColorstr='#3d94f6');
+	background-color:#1e62d0;
+	cursor:pointer;
+}
+.btn_submit:active {
+	position:relative;
+	top:1px;
+}
+

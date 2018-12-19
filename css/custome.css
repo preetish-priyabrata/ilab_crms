@@ -1,0 +1,23 @@
+.disapprove-edit{
+    cursor: pointer;
+    color: blue;
+}
+
+.disapprove-edit:hover{
+    text-decoration: underline;
+}
+
+.input-default{
+    width: 75%;
+    padding:3px;
+}
+
+.diff-color{
+    background-color: yellow;
+}
+
+tr#contact-search>td.t-head{
+    width: 22px;
+    background-color: #eeeeee;
+    border-bottom: 1px solid #d9d9d9;
+}
